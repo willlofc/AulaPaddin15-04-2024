@@ -1,0 +1,25 @@
+* /*Todos os elementos receberão essa propriedade*/
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #fff;
+}
+main
+{
+    width: 400px;
+    height: 400px;
+    background-color: #476ecc;
+    margin: 250px auto;
+    padding: 30px 50px;
+    box-sizing: border-box;
+}
+header, section
+{
+    padding: 10px 30px;
+
+}
+h1
+{
+    border: 10px solid #fff;
+    border-radius: 60px;
+    text-align: center;
+}
